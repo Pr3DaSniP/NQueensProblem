@@ -223,5 +223,4 @@ void main() {
 		afficheSolution(pop[0]);
 		afficheSolution2D(pop[0]);
 	}
-
 }
