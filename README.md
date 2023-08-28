@@ -15,6 +15,15 @@ Ce projet vise à résoudre le problème classique des N reines en utilisant un 
 ---
 
 ![Image1](assets/4x4.png)
+
+<br />
+
 ![Image2](assets/5x5.png)
+
+<br />
+
 ![Image3](assets/6x6.png)
+
+<br />
+
 ![Image4](assets/12x12.png)
