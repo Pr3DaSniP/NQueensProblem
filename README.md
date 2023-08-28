@@ -10,7 +10,6 @@ Ce projet vise à résoudre le problème classique des N reines en utilisant un 
 - **Représentation génétique :** Les individus de la population seront représentés sous forme de séquences génétiques correspondant aux positions des reines.
 - **Opérations génétiques :** L'algorithme génétique mettra en œuvre des opérations telles que la sélection, le croisement et la mutation pour évoluer la population vers une solution optimale.
 - **Fonction d'évaluation :** Une fonction d'évaluation sera définie pour évaluer la qualité de chaque disposition de reines.
-- **Visualisation :** L'application pourrait offrir la possibilité de visualiser les étapes de résolution et les solutions intermédiaires, en utilisant des bibliothèques graphiques C++.
 
 ---
 
