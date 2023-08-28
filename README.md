@@ -13,16 +13,17 @@ Ce projet vise à résoudre le problème classique des N reines en utilisant un 
 
 ---
 
+4 reines : <br />
 ![Image1](assets/4x4.png)
 
 <br />
-
+5 reines : <br />
 ![Image2](assets/5x5.png)
 
 <br />
-
+6 reines : <br />
 ![Image3](assets/6x6.png)
 
 <br />
-
+12 reines : <br />
 ![Image4](assets/12x12.png)
