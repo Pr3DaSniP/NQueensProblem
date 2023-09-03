@@ -1,6 +1,5 @@
 # Problème des N Reines avec un algorithme génétique
 
-![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet)
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 Ce projet vise à résoudre le problème classique des N reines en utilisant un algorithme génétique implémenté en C++. Le problème des N reines consiste à placer N reines sur un échiquier de N x N de manière à ce qu'aucune reine ne puisse menacer une autre reine en une seule étape de mouvement. L'algorithme génétique sera utilisé pour trouver une disposition optimale des reines. (https://en.wikipedia.org/wiki/Eight_queens_puzzle)
